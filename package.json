@@ -1,0 +1,22 @@
+{
+  "name": "application-cache",
+  "version": "1.0.0",
+  "description": "Application Cache Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanxlg/application-cache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanxlg/application-cache/issues"
+  },
+  "homepage": "https://github.com/yanxlg/application-cache#readme",
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
